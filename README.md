@@ -1,4 +1,4 @@
-95% of the roads lead to Philosophy. Here's the proof 🙂
+Clicking on the first link in the main text of an English Wikipedia article, and then repeating the process for subsequent articles, leads to the Philosophy article in 95% of cases. Here's the proof 🙂
 
 ### Test structure: 
 - open random Wikipedia article
